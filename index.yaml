@@ -3,12 +3,12 @@ entries:
   firstchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-22T07:36:24.78035592Z"
+    created: "2024-07-23T03:58:58.427619335Z"
     description: A Helm chart for Kubernetes
     digest: d93dd2525733e5cc48205d73a80f0a22267f3d6f49263ba50df4fb302de13e97
     name: firstchart
     type: application
     urls:
-    - https://github.com/Divyandivi/helmchartrepo1.git/firstchart-0.1.1.tgz
+    - firstchart-0.1.1.tgz
     version: 0.1.1
-generated: "2024-07-22T07:36:24.779649824Z"
+generated: "2024-07-23T03:58:58.426863038Z"
